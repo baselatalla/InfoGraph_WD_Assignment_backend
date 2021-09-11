@@ -7,4 +7,4 @@ release:
         - mkdir -p static
         - python manage.py collectstatic --noinput
 run:
-    web: gunicorn ANYVEHICLE.wsgi
+    web: gunicorn ANYVEHICLE_project.wsgi
