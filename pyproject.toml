@@ -6,7 +6,7 @@ authors = ["Basel Mousa Atalla <baselatalla10@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-Django = "^3.2.7"
+Django = "^3.2.13"
 djangorestframework = "^3.12.4"
 gunicorn = "^20.1.0"
 whitenoise = "^5.3.0"
